@@ -5,3 +5,4 @@
 - [Firebase Crash Monitoring](https://console.firebase.google.com/u/1/project/motifind-3a018/crashlytics/app/android:com.motifind.motifind/issues?time=last-seven-days&state=open&tag=all)
 - [Motifind 2023 plan](https://docs.google.com/document/d/1xZotajpjsijj7X76uDYwqVpm1UNJRFIJDig4Fl2h5s8/edit#)
 - [Trainer contacts](https://docs.google.com/spreadsheets/d/1JeuWZY1CHda_XNuWFbY0wRXv85GsKGyzm9ymg2YJTcs/edit#gid=0)
+- [Trainer interviews](https://docs.google.com/document/d/1v6DU_js_BSkOTFXOPKfyKcSW9-oUbCkTTMPwrSaxnCI/edit#heading=h.844j8fb03v2q)
