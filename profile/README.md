@@ -1,6 +1,6 @@
 - [Designs](https://www.figma.com/file/LzUw4cXspqLidxOYWOoplh/fitenest?node-id=1015%3A3346)
 - [How it works?](https://whimsical.com/fitenest-flow-QyoLP1y4oNH83QrrBkefBX)
-- [Roadmap](https://docs.google.com/spreadsheets/d/1EXXXajcDaPrsQbTPKlWcgcKDIk2Jvjs1mAq9yyXtVho/edit#gid=0)
+- [Delivery plan](https://docs.google.com/spreadsheets/d/1EXXXajcDaPrsQbTPKlWcgcKDIk2Jvjs1mAq9yyXtVho/edit#gid=0)
 - [Other whimsical links](https://whimsical.com/motifind-RRp8RDz4QyB6Yt7FoK2dMm)
 - [Firebase Crash Monitoring](https://console.firebase.google.com/u/1/project/motifind-3a018/crashlytics/app/android:com.motifind.motifind/issues?time=last-seven-days&state=open&tag=all)
 - [Motifind 2023 plan](https://docs.google.com/document/d/1xZotajpjsijj7X76uDYwqVpm1UNJRFIJDig4Fl2h5s8/edit#)
