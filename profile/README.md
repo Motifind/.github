@@ -7,4 +7,4 @@
 - [Trainer contacts](https://docs.google.com/spreadsheets/d/1JeuWZY1CHda_XNuWFbY0wRXv85GsKGyzm9ymg2YJTcs/edit#gid=0)
 - [Trainer interviews](https://docs.google.com/document/d/1v6DU_js_BSkOTFXOPKfyKcSW9-oUbCkTTMPwrSaxnCI/edit#heading=h.844j8fb03v2q)
 - [Test plan](https://docs.google.com/spreadsheets/d/1uhgeYK_mYcY_ctM9lMtgRhoukxVPSFCMmKWqKfYkjIU/edit#gid=0)
-- [Creating new api/web version](./versioning)
+- [Creating new api/web version](./versioning.md)
