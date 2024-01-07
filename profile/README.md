@@ -9,3 +9,4 @@
 - [Test plan](https://docs.google.com/spreadsheets/d/1uhgeYK_mYcY_ctM9lMtgRhoukxVPSFCMmKWqKfYkjIU/edit#gid=0)
 - [Releasing new api/web version](https://github.com/Motifind/devbook/blob/main/release.md)
 - [2024 Objectives](https://www.figma.com/file/lslWifwp2NSQ0pkYzoGdft/Goals?type=whiteboard&node-id=0-1&t=dm9f7Ach8VvzlFuM-0)
+- [Competitors](https://docs.google.com/spreadsheets/d/1vwLS1SA-5qGUkJ2CjnrDLcEnOUXp6cjSCukT5l6ep-A/edit#gid=0)
